@@ -3,6 +3,6 @@
 ## some of them are the `R-squereed and Adjusted R-squered` methods 
 
 * **R - Squered** =  1 - ssRes / ssTotal 
-Notations =  
-1. ssRes =  sum of squere resideal   
-2. ssTotal =  sum of squere Total
+* Notations : 
+    1. ssRes =  sum of squere resideal   
+    2. ssTotal =  sum of squere Total
